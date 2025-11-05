@@ -1,6 +1,5 @@
-pandas
-mysql-connector-python
-boto3
-apache-airflow
-kagglehub
-
+boto3>=1.28.0
+pandas>=2.0
+mysql-connector-python>=8.0.34
+sqlalchemy>=2.0
+python-dotenv>=1.0.1
